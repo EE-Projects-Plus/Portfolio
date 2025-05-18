@@ -52,15 +52,15 @@ const projects = [
   },
   {
     title: "Edward Enterprise",
-    description: "A corperate group",
+    description: "Coming Soon",
     image: "img/EE_logo.png",
-    url: "https://ee-projects-plus.github.io/OtakuRarities/",
+    url: "",
   },
   {
-    title: "AEDEN store",
-    description: "A store front to sell their products",
+    title: "AEDEN Studio",
+    description: "A game under development with this site used to showcase it",
     image: "img/AE_logo.png",
-    url: "https://ee-projects-plus.github.io/OtakuRarities/",
+    url: "https://ee-projects-plus.github.io/AEDEN/",
   },
   // Add more here
 ];
