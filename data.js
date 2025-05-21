@@ -1,7 +1,7 @@
 // Holds displayable content data only
 const fillerIntroContent = {
   title: "Welcome to My Portfolio",
-  description: "Explore my work and process as a passionate developer and AI enthusiast."
+  description: "Explore my work and process as a software developer."
 };
 
 const steps = [
@@ -32,7 +32,7 @@ const steps = [
   },
   {
     title: "6. Review",
-    description: "Deploy, test live, and support any post-launch updates.",
+    description: "Review, compile a report, study user feedback and communicate with the client with any further alterations",
     animation: "fade-left",
   },
 ];
